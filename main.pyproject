@@ -1,0 +1,3 @@
+{
+        "files": ["messageitem.h","Sprite.qml","MessageItem.qml","MessageItemForm.ui.qml","main.py","view.qml","logo.png","background.qml"]
+}
